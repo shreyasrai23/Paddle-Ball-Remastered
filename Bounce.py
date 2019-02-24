@@ -76,4 +76,4 @@ while 1:
      paddle.draw()
      tk.update_idletasks()
      tk.update()
-     time.sleep(0.01)
+     time.sleep(0.01*(10**-6))
